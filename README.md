@@ -11,6 +11,8 @@ just do these steps:
 	0: [ Install git from your package manager! ]
 	1: git clone https://github.com/am-shm/contribute-maker.git
 	2: cd contribute-maker
-	3: chmod +x boom.sh ; bash boom.sh
-
+	3: chmod +x boom.sh
+	4: cp boom.sh <path-to-your-private-repo-dir>
+	5: bash boom.sh
+	
 every 60 second of runnig, it commit some change.
