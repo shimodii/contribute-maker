@@ -1,8 +1,8 @@
 #!/bin/bash
 
+touch bla.txt
 while :
 do
-	touch bla.txt
 	echo "some bullshit" >> bla.txt
 	git add bla.txt
 	git commit -m 'bullshits added'
