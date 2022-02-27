@@ -13,6 +13,6 @@ just do these steps:
 	2: cd contribute-maker
 	3: chmod +x boom.sh
 	4: cp boom.sh <path-to-your-private-repo-dir>
-	5: bash boom.sh
+	5: bash boom.sh &
 	
 every 60 second of runnig, it commit some change.
